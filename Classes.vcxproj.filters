@@ -27,12 +27,18 @@
     <ClInclude Include="High Score.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="CnD.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Zombi.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CnD.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
